@@ -55,6 +55,12 @@ div {
     height: 100px;
     width: 100px;
   }
+  p {
+    font-size: 10px;
+  }
+  h1 {
+    font-size: 12px;
+  }
 }
 
 .failure-page {
